@@ -9,4 +9,3 @@ export class FooterComponent {
 
 }
 
-//ADRIAN MUÑOZ

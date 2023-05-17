@@ -9,4 +9,3 @@ export class AuthComponent {
 
 }
 
-//ADRIAN MUÑOZ

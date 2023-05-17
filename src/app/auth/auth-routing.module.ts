@@ -18,14 +18,14 @@ children:[
   {path:'login', component: LoginComponent},
   {path:'register', component: RegisterComponent},
 ]}
-  
+
 
 ]
 
- 
 
 
-  
+
+
 
 
 @NgModule({
@@ -36,4 +36,3 @@ children:[
   ]
 })
 export class AuthRoutingModule { }
-//ADRIAN MUÑOZ

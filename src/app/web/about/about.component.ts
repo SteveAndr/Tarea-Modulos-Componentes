@@ -9,4 +9,3 @@ export class AboutComponent {
 
 }
 
-//ADRIAN MUÑOZ

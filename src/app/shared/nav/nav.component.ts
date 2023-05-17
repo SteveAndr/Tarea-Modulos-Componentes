@@ -8,5 +8,3 @@ import { Component } from '@angular/core';
 export class NavComponent {
 
 }
-
-//ADRIAN MUÑOZ

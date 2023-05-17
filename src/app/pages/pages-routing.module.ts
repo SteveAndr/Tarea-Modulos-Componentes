@@ -20,8 +20,8 @@ const routes : Routes = [
     {path:'products', component: ProductsComponent},
     {path:'categories', component: CategoriesComponent},
   ]}
-    
-  
+
+
 ]
 
 
@@ -30,10 +30,9 @@ const routes : Routes = [
   imports: [
     CommonModule,
     RouterModule.forChild(routes),
-  
+
   ],
 
 })
 export class PagesRoutingModule { }
 
-//ADRIAN MUÑOZ
